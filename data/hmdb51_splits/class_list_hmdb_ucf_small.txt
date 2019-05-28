@@ -1,0 +1,5 @@
+0 golf
+1 pullup
+2 ride_bike
+3 ride_horse
+4 shoot_ball

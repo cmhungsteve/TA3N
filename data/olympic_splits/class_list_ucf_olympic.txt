@@ -1,0 +1,6 @@
+0 basketball_layup
+1 clean_and_jerk
+2 discus_throw
+3 diving_springboard_3m
+4 pole_vault
+5 tennis_serve

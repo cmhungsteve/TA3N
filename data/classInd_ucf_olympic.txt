@@ -1,0 +1,6 @@
+0 Basketball
+1 CleanAndJerk
+2 ThrowDiscus
+3 Diving
+4 PoleVault
+5 TennisSwing

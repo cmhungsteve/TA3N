@@ -1,0 +1,15 @@
+10 Archery
+9 Basketball 					
+5 BoxingPunchingBag 
+5 BoxingSpeedBag	
+7 Biking 						
+1 Fencing						
+2 GolfSwing 					
+8 HorseRiding 					
+4 PullUps 					
+5 Punch 
+6 PushUps						
+0 RockClimbingIndoor
+0 RopeClimbing		
+3 SoccerPenalty					
+11 WalkingWithDog

@@ -1,0 +1,12 @@
+0 climb
+1 fencing
+2 golf
+3 kick_ball  
+4 pullup
+5 punch
+6 pushup
+7 ride_bike
+8 ride_horse
+9 shoot_ball 
+10 shoot_bow
+11 walk
