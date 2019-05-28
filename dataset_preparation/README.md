@@ -1,19 +1,19 @@
 # Dataset Preparation
 
 ## Processing Order
-1. extract features:
+1. Extract features:
 [`./script_video2feature.sh`](#feature-vector-frame-level-extraction)
-2. generate lists:
-  * no official splits:
-    1. [`./script_dataset2split.sh`](#dataset-split-generation)
-    2. [`./script_dataset2list.sh`](#data-list-generation)
-  * official splits exist (e.g. UCF, HMDB): [`./script_list2DA.sh`](#da-list-generation)
+2. Generate lists:
+    * no official splits:
+        1. [`./script_dataset2split.sh`](#dataset-split-generation)
+        2. [`./script_dataset2list.sh`](#data-list-generation)
+    * official splits exist (e.g. UCF, HMDB): [`./script_list2DA.sh`](#da-list-generation)
 
 #### Notes
 1. The options in the scripts have comments with the following types:
-  * no comment: user can still change it, but NOT recommend (may need to change the code or have different experimental results)
-  * comments with choices (e.g. `true | false`): can only choose from choices
-  * comments as `depend on users`: totally depend on users (mostly related to data path)
+    * no comment: user can still change it, but NOT recommend (may need to change the code or have different experimental results)
+    * comments with choices (e.g. `true | false`): can only choose from choices
+    * comments as `depend on users`: totally depend on users (mostly related to data path)
 
 ---
 ### Feature vector (frame-level) extraction
@@ -71,7 +71,7 @@ data_path/RGB-Feature/VIDEO_0002/ 150 1
 ```
 
 ---
-### DA list generation (if official splits exist)
-`list_ucf_hmdb_full2DA.py` separates the data list from the official UCF/HMDB splits with user chosen DA settings.
+### DA list generation
+If official splits exist (e.g. UCF, HMDB), `list_ucf_hmdb_full2DA.py` can separate the data list from the official splits with user chosen DA settings.
 
 Run `./script_list2DA.sh`.
