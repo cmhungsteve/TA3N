@@ -134,10 +134,10 @@ then
 
 	# parameters for optimization
 	lr_decay=10
-    lr_adaptive=dann # none | loss | dann
-    lr_steps_1=10
-    lr_steps_2=20
-    epochs=30
+    	lr_adaptive=dann # none | loss | dann
+    	lr_steps_1=10
+    	lr_steps_2=20
+    	epochs=30
 	gd=20
 
 	# other parameters (still in progress)	
