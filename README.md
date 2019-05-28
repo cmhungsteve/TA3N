@@ -137,6 +137,10 @@ year={2019}
 ```
 
 ---
-#### Contact
+### Acknowledgments
+Some codes are borrowed from [TSN](https://github.com/yjxiong/temporal-segment-networks), [pytorch-tsn](https://github.com/yjxiong/tsn-pytorch), [TRN-pytorch](https://github.com/metalbubble/TRN-pytorch), and [Xlearn](https://github.com/thuml/Xlearn/tree/master/pytorch).
+
+---
+### Contact
 [Min-Hung Chen](https://www.linkedin.com/in/chensteven) <br>
 cmhungsteve AT gatech DOT edu
