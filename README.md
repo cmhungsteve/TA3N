@@ -2,7 +2,7 @@
 This is the PyTorch implementation of our paper:
 
 **Temporal Attentive Alignment for Video Domain Adaptation**  
-Min-Hung Chen, Zsolt Kira, Ghassan AlRegib  
+[Min-Hung Chen](https://www.linkedin.com/in/chensteven), [Zsolt Kira](https://www.cc.gatech.edu/~zk15/), [Ghassan AlRegib](https://ghassanalregib.com/)  
 CVPR Workshop (Learning from Unlabeled Videos), 2019  
 [arXiv (to be updated)]()
 
