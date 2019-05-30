@@ -4,7 +4,7 @@ This is the PyTorch implementation of our paper:
 **Temporal Attentive Alignment for Video Domain Adaptation**  
 [Min-Hung Chen](https://www.linkedin.com/in/chensteven), [Zsolt Kira](https://www.cc.gatech.edu/~zk15/), [Ghassan AlRegib](https://ghassanalregib.com/)  
 CVPR Workshop (Learning from Unlabeled Videos), 2019  
-[arXiv (to be updated)]()
+[[arXiv](https://arxiv.org/abs/1905.10861)]
 
 <p align="center">
 <img src="webpage/Overview.png?raw=true" width="60%">
@@ -67,7 +67,8 @@ DATA_PATH/
 
 There should be at least two `DATASET` folders: source training set  and validation set. If you want to do domain adaption, you need to have another `DATASET`: target training set.
 
-The pre-trained feature representations will be released soon. ([`TODO`](TODO/))
+The pre-trained feature representations will be released soon.
+<!-- ([`Link`]()) -->
 
 ### File lists for training/validation
 The file list `list_DATASET_SUFFIX.txt` is required for data feeding. Each line in the list contains the full path of the video folder, video frame number, and video class index. It looks like:
@@ -132,7 +133,8 @@ If you find this repository useful, please cite our paper:
 title={Temporal Attentive Alignment for Video Domain Adaptation},
 author={Chen, Min-Hung and Kira, Zsolt and AlRegib, Ghassan},
 booktitle = {CVPR Workshop on Learning from Unlabeled Videos},
-year={2019}
+year={2019},
+url={https://arxiv.org/abs/1905.10861}
 }
 ```
 
