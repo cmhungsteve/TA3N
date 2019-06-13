@@ -26,10 +26,11 @@ Although various image-based domain adaptation (DA) techniques have been propose
 * [Usage](#usage)
   * [Training](#training)
   * [Testing](#testing)
-  * [Video Demo](#video-demo)
+<!--   * [Video Demo](#video-demo) -->
 * [Options](#options)
   * [Domain Adaptation](#domain-adaptation)
   * [More options](#more-options)
+* [Citation](#citation)
 * [Contact](#contact)
 
 ---
