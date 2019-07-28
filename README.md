@@ -1,5 +1,10 @@
 # Temporal Attentive Alignment for Video Domain Adaptation
-This is the PyTorch implementation of our paper:
+This is the Official PyTorch implementation of our papers:
+
+**Temporal Attentive Alignment for Large-Scale Video Domain Adaptation**  
+[Min-Hung Chen](https://www.linkedin.com/in/chensteven), [Zsolt Kira](https://www.cc.gatech.edu/~zk15/), [Ghassan AlRegib](https://ghassanalregib.com/), Jaekwon Woo, Ruxin Chen, [Jian Zheng](https://scholar.google.com/citations?user=5YR6dTEAAAAJ&hl=en)  
+International Conference on Computer Vision (ICCV), 2019  
+[arXiv (coming soon))]
 
 **Temporal Attentive Alignment for Video Domain Adaptation**  
 [Min-Hung Chen](https://www.linkedin.com/in/chensteven), [Zsolt Kira](https://www.cc.gatech.edu/~zk15/), [Ghassan AlRegib](https://ghassanalregib.com/)  
@@ -128,9 +133,16 @@ The options in the scripts have comments with the following types:
 
 ---
 ## Citation
-If you find this repository useful, please cite our paper:
+If you find this repository useful, please cite our papers:
 ```
 @article{chen2019taaan,
+title={Temporal Attentive Alignment for Large-Scale Video Domain Adaptation},
+author={Chen, Min-Hung and Kira, Zsolt and AlRegib, Ghassan and Woo, Jaekwon and Chen, Ruxin and Zheng, Jian},
+booktitle = {International Conference on Computer Vision (ICCV)},
+year={2019},
+}
+
+@article{chen2019temporal,
 title={Temporal Attentive Alignment for Video Domain Adaptation},
 author={Chen, Min-Hung and Kira, Zsolt and AlRegib, Ghassan},
 booktitle = {CVPR Workshop on Learning from Unlabeled Videos},
