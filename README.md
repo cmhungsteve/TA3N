@@ -1,5 +1,5 @@
 # Temporal Attentive Alignment for Video Domain Adaptation
-This is the Official PyTorch implementation of our papers:
+This is the official PyTorch implementation of our papers:
 
 **Temporal Attentive Alignment for Large-Scale Video Domain Adaptation**  
 [Min-Hung Chen](https://www.linkedin.com/in/chensteven), [Zsolt Kira](https://www.cc.gatech.edu/~zk15/), [Ghassan AlRegib](https://ghassanalregib.com/), Jaekwon Woo, Ruxin Chen, [Jian Zheng](https://scholar.google.com/citations?user=5YR6dTEAAAAJ&hl=en)  
@@ -15,7 +15,9 @@ CVPR Workshop (Learning from Unlabeled Videos), 2019
 <img src="webpage/Overview.png?raw=true" width="60%">
 </p>
 
-Although various image-based domain adaptation (DA) techniques have been proposed in recent years, domain shift in videos is still not well-explored. Most previous works only evaluate performance on small-scale datasets which are saturated. Therefore, we first propose a larger-scale dataset with larger domain discrepancy: UCF-HMDB_full. Second, we investigate different DA integration methods for videos, and show that simultaneously aligning and learning temporal dynamics achieves effective alignment even without sophisticated DA methods. Finally, we propose Temporal Attentive Adversarial Adaptation Network (TA3N), which explicitly attends to the temporal dynamics using domain discrepancy for more effective domain alignment, achieving state-of-the-art performance on three video DA datasets.
+Although various image-based domain adaptation (DA) techniques have been proposed in recent years, domain shift in videos is still not well-explored. Most previous
+works only evaluate performance on small-scale datasets which are saturated. Therefore, we first propose two largescale video DA datasets with much larger domain discrepancy: **UCF-HMDB<sub>full</sub>** and **Kinetics-Gameplay**. Second, we investigate different DA integration methods for videos, and show that simultaneously aligning and learning temporal dynamics achieves effective alignment even without sophisticated DA methods. Finally, we propose **Temporal Attentive Adversarial Adaptation Network (TA<sup>3</sup>N)**, which explicitly attends to the temporal dynamics using domain
+discrepancy for more effective domain alignment, achieving state-of-the-art performance on four video DA datasets.
 
 <p align="center">
 <img src="webpage/SOTA_small.png?raw=true" width="49%">
@@ -26,7 +28,8 @@ Although various image-based domain adaptation (DA) techniques have been propose
 ## Contents
 * [Requirements](#requirements)
 * [Dataset Preparation](#dataset-preparation)
-  * [Data Structure](#data-structure)
+  * [Data structure](#data-structure)
+  * [Input data](#input-data)
   * [File lists for training/validation](#file-lists-for-trainingvalidation)
 * [Usage](#usage)
   * [Training](#training)
@@ -45,7 +48,7 @@ Although various image-based domain adaptation (DA) techniques have been propose
 
 ---
 ## Dataset Preparation
-### Data Structure
+### Data structure
 You need to extract frame-level features for each video to run the codes. To extract features, please check [`dataset_preparation/`](dataset_preparation/).
 
 Folder Structure:
@@ -73,7 +76,11 @@ DATA_PATH/
 
 There should be at least two `DATASET` folders: source training set  and validation set. If you want to do domain adaption, you need to have another `DATASET`: target training set.
 
-The pre-trained feature representations will be released soon.
+### Input data
+* UCF: [download link](https://www.dropbox.com/s/swfdjp7i79uddpf/ucf101-feat.zip?dl=0)
+* HMDB: [download link](https://www.dropbox.com/s/c3b3v9zecen4dwo/hmdb51-feat.zip?dl=0)
+
+<!-- The input pre-trained feature representations will be released soon. -->
 <!-- ([`Link`]()) -->
 
 ### File lists for training/validation
@@ -116,11 +123,12 @@ In `./script_train_val.sh`, there are several options related to our DA approach
 * `use_target`: switch on/off the DA mode
   * `none`: not use target data (no DA)
   * `uSv`/`Sv`: use target data in a unsupervised/supervised way
-* options for the DA approaches:
+
+<!-- * options for the DA approaches:
   * discrepancy-based: DAN, JAN
   * adversarial-based: RevGrad
   * Normalization-based: AdaBN
-  * Ensemble-based: MCD
+  * Ensemble-based: MCD -->
 
 #### More options
 For more details of all the arguments, please check [opts.py](opts.py).
