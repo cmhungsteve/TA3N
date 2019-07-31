@@ -3,7 +3,7 @@ This is the official PyTorch implementation of our papers:
 
 **Temporal Attentive Alignment for Large-Scale Video Domain Adaptation**  
 [Min-Hung Chen](https://www.linkedin.com/in/chensteven), [Zsolt Kira](https://www.cc.gatech.edu/~zk15/), [Ghassan AlRegib](https://ghassanalregib.com/), Jaekwon Woo, Ruxin Chen, [Jian Zheng](https://scholar.google.com/citations?user=5YR6dTEAAAAJ&hl=en)  
-International Conference on Computer Vision (ICCV), 2019  
+International Conference on Computer Vision (ICCV), 2019 **[Oral]**  
 [[arXiv](https://arxiv.org/abs/1907.12743)]
 
 **Temporal Attentive Alignment for Video Domain Adaptation**  
