@@ -148,6 +148,7 @@ title={Temporal Attentive Alignment for Large-Scale Video Domain Adaptation},
 author={Chen, Min-Hung and Kira, Zsolt and AlRegib, Ghassan and Woo, Jaekwon and Chen, Ruxin and Zheng, Jian},
 booktitle = {International Conference on Computer Vision (ICCV)},
 year={2019},
+url={https://arxiv.org/abs/1907.12743}
 }
 
 @article{chen2019temporal,
