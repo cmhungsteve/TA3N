@@ -1,6 +1,6 @@
 # Temporal Attentive Alignment for Video Domain Adaptation
 This is the official PyTorch implementation of our papers:
-<img align="right" src="webpage/OLIVES.png" width="7%">
+[<img align="right" src="webpage/OLIVES.png" width="7%">](https://ghassanalregib.info/)
 
 **Temporal Attentive Alignment for Large-Scale Video Domain Adaptation**  
 [__***Min-Hung Chen***__](https://www.linkedin.com/in/chensteven), [Zsolt Kira](https://www.cc.gatech.edu/~zk15/), [Ghassan AlRegib](https://ghassanalregib.com/), Jaekwon Woo, Ruxin Chen, [Jian Zheng](https://scholar.google.com/citations?user=5YR6dTEAAAAJ&hl=en)  
