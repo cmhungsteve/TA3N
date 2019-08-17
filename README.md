@@ -3,14 +3,16 @@ This is the official PyTorch implementation of our papers:
 [<img align="right" src="webpage/OLIVES.png" width="7%">](https://ghassanalregib.info/)
 
 **Temporal Attentive Alignment for Large-Scale Video Domain Adaptation**  
-[__***Min-Hung Chen***__](https://www.linkedin.com/in/chensteven), [Zsolt Kira](https://www.cc.gatech.edu/~zk15/), [Ghassan AlRegib](https://ghassanalregib.com/), Jaekwon Woo, Ruxin Chen, [Jian Zheng](https://scholar.google.com/citations?user=5YR6dTEAAAAJ&hl=en)  
+[__***Min-Hung Chen***__](https://www.linkedin.com/in/chensteven), [Zsolt Kira](https://www.cc.gatech.edu/~zk15/), [Ghassan AlRegib (Advisor)](https://ghassanalregib.info/), [Jaekwon Woo](https://www.linkedin.com/in/jaekwon-yoo-8685862b/), [Ruxin Chen](https://www.linkedin.com/in/ruxin-chen-991477119/), [Jian Zheng](https://www.linkedin.com/in/jian-zheng/)  
 International Conference on Computer Vision (ICCV), 2019 **[Oral]**  
 [[arXiv](https://arxiv.org/abs/1907.12743)]
 
 **Temporal Attentive Alignment for Video Domain Adaptation**  
-[__***Min-Hung Chen***__](https://www.linkedin.com/in/chensteven), [Zsolt Kira](https://www.cc.gatech.edu/~zk15/), [Ghassan AlRegib](https://ghassanalregib.com/)  
+[__***Min-Hung Chen***__](https://www.linkedin.com/in/chensteven), [Zsolt Kira](https://www.cc.gatech.edu/~zk15/), [Ghassan AlRegib (Advisor)](https://ghassanalregib.info/)  
 CVPR Workshop (Learning from Unlabeled Videos), 2019  
 [[arXiv](https://arxiv.org/abs/1905.10861)]
+
+This work was mainly done in the [Omni Lab for Intelligent Visual Engineering and Science (OLIVES)](https://ghassanalregib.info/) @ Georgia Tech. Feel free to check our lab's [Website](https://ghassanalregib.info/) and [GitHub](https://github.com/olivesgatech) for other interesting work!!!
 
 <p align="center">
 <img src="webpage/Overview.png?raw=true" width="60%">
@@ -163,9 +165,14 @@ url={https://arxiv.org/abs/1905.10861}
 
 ---
 ### Acknowledgments
+This work was mainly done in [OLIVES](https://ghassanalregib.info/)@GT with the guidance of Prof. [Ghassan AlRegib]((https://ghassanalregib.info/)), and the collaboration with Prof. [Zsolt Kira](https://www.cc.gatech.edu/~zk15/) at Georgia Tech. Part of this work was done
+ <!-- in [Sony Interactive Entertainment (SIE)](https://www.sie.com/en/index.html)  -->
+ with the collaboration with [Jaekwon Woo](https://www.linkedin.com/in/jaekwon-yoo-8685862b/), [Ruxin Chen](https://www.linkedin.com/in/ruxin-chen-991477119/) and [Jian Zheng](https://www.linkedin.com/in/jian-zheng/).
+
 Some codes are borrowed from [TSN](https://github.com/yjxiong/temporal-segment-networks), [pytorch-tsn](https://github.com/yjxiong/tsn-pytorch), [TRN-pytorch](https://github.com/metalbubble/TRN-pytorch), and [Xlearn](https://github.com/thuml/Xlearn/tree/master/pytorch).
 
 ---
 ### Contact
 [Min-Hung Chen](https://www.linkedin.com/in/chensteven) <br>
-cmhungsteve AT gatech DOT edu
+cmhungsteve AT gatech DOT edu <br>
+[<img align="left" src="webpage/OLIVES.png" width="10%">](https://ghassanalregib.info/)
