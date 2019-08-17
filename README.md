@@ -1,6 +1,10 @@
 # Temporal Attentive Alignment for Video Domain Adaptation
+[<img align="right" src="webpage/OLIVES.png" width="10%">](https://ghassanalregib.info/)
+This work was mainly done in the [**Omni Lab for Intelligent Visual Engineering and Science (OLIVES)**](https://ghassanalregib.info/) @ Georgia Tech. <br>
+Feel free to check our lab's [**Website**](https://ghassanalregib.info/) and [**GitHub**](https://github.com/olivesgatech) for other interesting work!!!
+
+---
 This is the official PyTorch implementation of our papers:
-[<img align="right" src="webpage/OLIVES.png" width="7%">](https://ghassanalregib.info/)
 
 **Temporal Attentive Alignment for Large-Scale Video Domain Adaptation**  
 [__***Min-Hung Chen***__](https://www.linkedin.com/in/chensteven), [Zsolt Kira](https://www.cc.gatech.edu/~zk15/), [Ghassan AlRegib (Advisor)](https://ghassanalregib.info/), [Jaekwon Woo](https://www.linkedin.com/in/jaekwon-yoo-8685862b/), [Ruxin Chen](https://www.linkedin.com/in/ruxin-chen-991477119/), [Jian Zheng](https://www.linkedin.com/in/jian-zheng/)  
@@ -11,9 +15,6 @@ International Conference on Computer Vision (ICCV), 2019 **[Oral]**
 [__***Min-Hung Chen***__](https://www.linkedin.com/in/chensteven), [Zsolt Kira](https://www.cc.gatech.edu/~zk15/), [Ghassan AlRegib (Advisor)](https://ghassanalregib.info/)  
 CVPR Workshop (Learning from Unlabeled Videos), 2019  
 [[arXiv](https://arxiv.org/abs/1905.10861)]
-
-This work was mainly done in the [**Omni Lab for Intelligent Visual Engineering and Science (OLIVES)**](https://ghassanalregib.info/) @ Georgia Tech. <br>
-Feel free to check our lab's [**Website**](https://ghassanalregib.info/) and [**GitHub**](https://github.com/olivesgatech) for other interesting work!!!
 
 <p align="center">
 <img src="webpage/Overview.png?raw=true" width="60%">
