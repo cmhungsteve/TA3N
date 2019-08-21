@@ -1,7 +1,7 @@
 #!/bin/bash
 # ----------------------------------------------------------------------------------
 # variable
-data_path=/home/mchen2/dataset/ # depend on users
+data_path=/dataset/ # depend on users
 folder_in=olympic/ # depend on users
 modality=RGB
 folder_out_1=olympic_train/ # depend on users

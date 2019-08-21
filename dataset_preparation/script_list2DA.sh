@@ -4,7 +4,7 @@
 dataset=ucf101 # hmdb51 | ucf101
 modality=rgb # rgb | flow
 sp=1 # 1 | 2 | 3
-data_path=/media/cmhung/MySSD/dataset/ # depend on users
+data_path=/dataset/ # depend on users
 frame_type=feature # frame | feature
 method_read=frame # frame | video (much slower)
 DA_setting=hmdb_ucf # hmdb_ucf | hmdb_ucf_small

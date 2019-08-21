@@ -2,7 +2,7 @@
 # ----------------------------------------------------------------------------------
 # variable
 dataset=olympic_train # # depend on users (e.g. hmdb51 | ucf101 | xxx_train | xxx_val) 
-data_path=/home/mchen2/dataset/ # depend on users
+data_path=/dataset/ # depend on users
 video_in=RGB
 frame_in=RGB-feature
 max_num=-1 # 0 (class average) | -1 (all) | any number
