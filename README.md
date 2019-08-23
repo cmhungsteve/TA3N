@@ -1,4 +1,9 @@
 # Temporal Attentive Alignment for Video Domain Adaptation
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/temporal-attentive-alignment-for-large-scale/domain-adaptation-on-hmdb-ucf-full)](https://paperswithcode.com/sota/domain-adaptation-on-hmdb-ucf-full?p=temporal-attentive-alignment-for-large-scale)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/temporal-attentive-alignment-for-large-scale/domain-adaptation-on-ucf-hmdb-full)](https://paperswithcode.com/sota/domain-adaptation-on-ucf-hmdb-full?p=temporal-attentive-alignment-for-large-scale)
+
+---
 [<img align="right" src="webpage/OLIVES.png" width="10%">](https://ghassanalregib.info/)
 This work was mainly done in the [**Omni Lab for Intelligent Visual Engineering and Science (OLIVES)**](https://ghassanalregib.info/) @ Georgia Tech. <br>
 Feel free to check our lab's [**Website**](https://ghassanalregib.info/) and [**GitHub**](https://github.com/olivesgatech) for other interesting work!!!
