@@ -39,8 +39,8 @@ discrepancy for more effective domain alignment, achieving state-of-the-art perf
 * [Requirements](#requirements)
 * [Dataset Preparation](#dataset-preparation)
   * [Data structure](#data-structure)
-  * [Input data](#input-data)
   * [File lists for training/validation](#file-lists-for-trainingvalidation)
+  * [Input data](#input-data)
 * [Usage](#usage)
   * [Training](#training)
   * [Testing](#testing)
@@ -86,13 +86,6 @@ DATA_PATH/
 
 There should be at least two `DATASET` folders: source training set  and validation set. If you want to do domain adaption, you need to have another `DATASET`: target training set.
 
-### Input data
-* UCF: [download link](https://www.dropbox.com/s/swfdjp7i79uddpf/ucf101-feat.zip?dl=0)
-* HMDB: [download link](https://www.dropbox.com/s/c3b3v9zecen4dwo/hmdb51-feat.zip?dl=0)
-
-<!-- The input pre-trained feature representations will be released soon. -->
-<!-- ([`Link`]()) -->
-
 ### File lists for training/validation
 The file list `list_DATASET_SUFFIX.txt` is required for data feeding. Each line in the list contains the full path of the video folder, video frame number, and video class index. It looks like:
 ```
@@ -101,6 +94,11 @@ DATA_PATH/DATASET/RGB-Feature/VIDEO_0002/ 150 1
 ......
 ```
 To generate the file list, please check [`dataset_preparation/`](dataset_preparation/).
+
+### Input data
+* UCF-HMDB<sub>full</sub>
+  * UCF: [features](https://www.dropbox.com/s/swfdjp7i79uddpf/ucf101-feat.zip?dl=0) | [training list](https://www.dropbox.com/s/8dq8xcekdi18a04/list_ucf101_train_hmdb_ucf-feature.txt?dl=0) | [validation list](https://www.dropbox.com/s/wnd6e0z3u36x50w/list_ucf101_val_hmdb_ucf-feature.txt?dl=0)
+  * HMDB: [features](https://www.dropbox.com/s/c3b3v9zecen4dwo/hmdb51-feat.zip?dl=0) | [training list](https://www.dropbox.com/s/4bl7kt0er3mib19/list_hmdb51_train_hmdb_ucf-feature.txt?dl=0) | [validation list](https://www.dropbox.com/s/zdg3of6z370i22w/list_hmdb51_val_hmdb_ucf-feature.txt?dl=0)
 
 ---
 ## Usage
