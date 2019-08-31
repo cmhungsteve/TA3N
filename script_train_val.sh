@@ -139,11 +139,6 @@ then
     	lr_steps_2=20
     	epochs=30
 	gd=20
-
-	# other parameters (still in progress)	
-	pred_normalize=N
-	weighted_class_loss_DA=N
-	weighted_class_loss=N
 	
 	#------ main command ------#
 	python main.py $dataset $class_file $modality $train_source_list $train_target_list $val_list --exp_path $exp_path \
