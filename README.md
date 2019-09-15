@@ -12,7 +12,7 @@ Feel free to check our lab's [**Website**](https://ghassanalregib.info/) and [**
 This is the official PyTorch implementation of our papers:
 
 **Temporal Attentive Alignment for Large-Scale Video Domain Adaptation**  
-[__***Min-Hung Chen***__](https://www.linkedin.com/in/chensteven), [Zsolt Kira](https://www.cc.gatech.edu/~zk15/), [Ghassan AlRegib (Advisor)](https://ghassanalregib.info/), [Jaekwon Woo](https://www.linkedin.com/in/jaekwon-yoo-8685862b/), [Ruxin Chen](https://www.linkedin.com/in/ruxin-chen-991477119/), [Jian Zheng](https://www.linkedin.com/in/jian-zheng/)  
+[__***Min-Hung Chen***__](https://www.linkedin.com/in/chensteven), [Zsolt Kira](https://www.cc.gatech.edu/~zk15/), [Ghassan AlRegib (Advisor)](https://ghassanalregib.info/), [Jaekwon Yoo](https://www.linkedin.com/in/jaekwon-yoo-8685862b/), [Ruxin Chen](https://www.linkedin.com/in/ruxin-chen-991477119/), [Jian Zheng](https://www.linkedin.com/in/jian-zheng/)  
 International Conference on Computer Vision (ICCV), 2019 **[Oral]**  
 [[arXiv](https://arxiv.org/abs/1907.12743)]
 
@@ -165,7 +165,7 @@ If you find this repository useful, please cite our papers:
 ```
 @article{chen2019taaan,
 title={Temporal Attentive Alignment for Large-Scale Video Domain Adaptation},
-author={Chen, Min-Hung and Kira, Zsolt and AlRegib, Ghassan and Woo, Jaekwon and Chen, Ruxin and Zheng, Jian},
+author={Chen, Min-Hung and Kira, Zsolt and AlRegib, Ghassan and Yoo, Jaekwon and Chen, Ruxin and Zheng, Jian},
 booktitle = {International Conference on Computer Vision (ICCV)},
 year={2019},
 url={https://arxiv.org/abs/1907.12743}
@@ -182,7 +182,7 @@ url={https://arxiv.org/abs/1905.10861}
 
 ---
 ### Acknowledgments
-This work was mainly done in [OLIVES](https://ghassanalregib.info/)@GT with the guidance of Prof. [Ghassan AlRegib](https://ghassanalregib.info/), and the collaboration with Prof. [Zsolt Kira](https://www.cc.gatech.edu/~zk15/) at Georgia Tech. Part of this work was done with the collaboration with [Jaekwon Woo](https://www.linkedin.com/in/jaekwon-yoo-8685862b/), [Ruxin Chen](https://www.linkedin.com/in/ruxin-chen-991477119/) and [Jian Zheng](https://www.linkedin.com/in/jian-zheng/).
+This work was mainly done in [OLIVES](https://ghassanalregib.info/)@GT with the guidance of Prof. [Ghassan AlRegib](https://ghassanalregib.info/), and the collaboration with Prof. [Zsolt Kira](https://www.cc.gatech.edu/~zk15/) at Georgia Tech. Part of this work was done with the collaboration with [Jaekwon Yoo](https://www.linkedin.com/in/jaekwon-yoo-8685862b/), [Ruxin Chen](https://www.linkedin.com/in/ruxin-chen-991477119/) and [Jian Zheng](https://www.linkedin.com/in/jian-zheng/).
 <!-- in [Sony Interactive Entertainment (SIE)](https://www.sie.com/en/index.html)  -->
 
 Some codes are borrowed from [TSN](https://github.com/yjxiong/temporal-segment-networks), [pytorch-tsn](https://github.com/yjxiong/tsn-pytorch), [TRN-pytorch](https://github.com/metalbubble/TRN-pytorch), and [Xlearn](https://github.com/thuml/Xlearn/tree/master/pytorch).
