@@ -192,6 +192,9 @@ This work was mainly done in [OLIVES](https://ghassanalregib.info/)@GT with the 
 
 Some codes are borrowed from [TSN](https://github.com/yjxiong/temporal-segment-networks), [pytorch-tsn](https://github.com/yjxiong/tsn-pytorch), [TRN-pytorch](https://github.com/metalbubble/TRN-pytorch), and [Xlearn](https://github.com/thuml/Xlearn/tree/master/pytorch).
 
+Special thanks to the development team for the product used in the Kinetics-Gameplay dataset: <br>
+**Detroit: Become Human™ ©Sony Interactive Entertainment Europe, developed by Quantic Dream**
+
 ---
 ### Contact
 [Min-Hung Chen](https://www.linkedin.com/in/chensteven) <br>
