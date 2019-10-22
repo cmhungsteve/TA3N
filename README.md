@@ -4,7 +4,7 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/temporal-attentive-alignment-for-large-scale/domain-adaptation-on-ucf-hmdb-full)](https://paperswithcode.com/sota/domain-adaptation-on-ucf-hmdb-full?p=temporal-attentive-alignment-for-large-scale)
 
 ---
-[<img align="right" src="webpage/OLIVES_new.png" width="12%">](https://ghassanalregib.info/)
+[<img align="right" src="webpage/OLIVES_new.png" width="15%">](https://ghassanalregib.info/)
 This work was mainly done in the [**Omni Lab for Intelligent Visual Engineering and Science (OLIVES)**](https://ghassanalregib.info/) @ Georgia Tech. <br>
 Feel free to check our lab's [**Website**](https://ghassanalregib.info/) and [**GitHub**](https://github.com/olivesgatech) for other interesting work!!!
 
@@ -191,4 +191,4 @@ Some codes are borrowed from [TSN](https://github.com/yjxiong/temporal-segment-n
 ### Contact
 [Min-Hung Chen](https://www.linkedin.com/in/chensteven) <br>
 cmhungsteve AT gatech DOT edu <br>
-[<img align="left" src="webpage/OLIVES_new.png" width="12%">](https://ghassanalregib.info/)
+[<img align="left" src="webpage/OLIVES_new.png" width="15%">](https://ghassanalregib.info/)
