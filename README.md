@@ -13,12 +13,12 @@ This is the official PyTorch implementation of our papers:
 
 **Temporal Attentive Alignment for Large-Scale Video Domain Adaptation**  
 [__***Min-Hung Chen***__](https://www.linkedin.com/in/chensteven), [Zsolt Kira](https://www.cc.gatech.edu/~zk15/), [Ghassan AlRegib (Advisor)](https://ghassanalregib.info/), [Jaekwon Yoo](https://www.linkedin.com/in/jaekwon-yoo-8685862b/), [Ruxin Chen](https://www.linkedin.com/in/ruxin-chen-991477119/), [Jian Zheng](https://www.linkedin.com/in/jian-zheng/)  
-International Conference on Computer Vision (ICCV), 2019 **[Oral (acceptance rate: 4.6%)]**  
+[International Conference on Computer Vision (ICCV), 2019](http://iccv2019.thecvf.com/) **[Oral (acceptance rate: 4.6%)]**  
 [[arXiv](https://arxiv.org/abs/1907.12743)][[Oral](https://youtu.be/j9cDuzmpYP8)][[Poster](webpage/ICCV2019_Steve_TA3N_poster_v1_2.pdf)][[Open Access](http://openaccess.thecvf.com/content_ICCV_2019/html/Chen_Temporal_Attentive_Alignment_for_Large-Scale_Video_Domain_Adaptation_ICCV_2019_paper.html)]
 
 **Temporal Attentive Alignment for Video Domain Adaptation**  
 [__***Min-Hung Chen***__](https://www.linkedin.com/in/chensteven), [Zsolt Kira](https://www.cc.gatech.edu/~zk15/), [Ghassan AlRegib (Advisor)](https://ghassanalregib.info/)  
-CVPR Workshop (Learning from Unlabeled Videos), 2019  
+[CVPR Workshop (Learning from Unlabeled Videos), 2019](https://sites.google.com/view/luv2019)  
 [[arXiv](https://arxiv.org/abs/1905.10861)]
 
 <p align="center">
