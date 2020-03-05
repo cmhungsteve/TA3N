@@ -168,21 +168,22 @@ The options in the scripts have comments with the following types:
 ## Citation
 If you find this repository useful, please cite our papers:
 ```
-@article{chen2019taaan,
-title={Temporal Attentive Alignment for Large-Scale Video Domain Adaptation},
-author={Chen, Min-Hung and Kira, Zsolt and AlRegib, Ghassan and Yoo, Jaekwon and Chen, Ruxin and Zheng, Jian},
-booktitle = {International Conference on Computer Vision (ICCV)},
-year={2019},
-url={https://arxiv.org/abs/1907.12743}
+@inproceedings{chen2019temporal,
+  title={Temporal attentive alignment for large-scale video domain adaptation},
+  author={Chen, Min-Hung and Kira, Zsolt and AlRegib, Ghassan and Woo, Jaekwon and Chen, Ruxin and Zheng, Jian},
+  booktitle={IEEE International Conference on Computer Vision (ICCV)},
+  year={2019},
+  url={https://arxiv.org/abs/1907.12743}
 }
 
-@article{chen2019temporal,
-title={Temporal Attentive Alignment for Video Domain Adaptation},
-author={Chen, Min-Hung and Kira, Zsolt and AlRegib, Ghassan},
-booktitle = {CVPR Workshop on Learning from Unlabeled Videos},
-year={2019},
-url={https://arxiv.org/abs/1905.10861}
+@article{chen2019taaan,
+  title={Temporal Attentive Alignment for Video Domain Adaptation},
+  author={Chen, Min-Hung and Kira, Zsolt and AlRegib, Ghassan},
+  journal={CVPR Workshop on Learning from Unlabeled Videos},
+  year={2019},
+  url={https://arxiv.org/abs/1905.10861}
 }
+
 ```
 
 ---
