@@ -98,9 +98,9 @@ To generate the file list, please check [`dataset_preparation/`](dataset_prepara
 ### Input data
 Here we provide pre-extracted features and data list files, so you can skip the above two steps and directly try our training/testing codes. You may need to manually edit the path in the data list files.
 * Features
-  * UCF: [download](https://www.dropbox.com/s/swfdjp7i79uddpf/ucf101-feat.zip?dl=0)
-  * HMDB: [download](https://www.dropbox.com/s/c3b3v9zecen4dwo/hmdb51-feat.zip?dl=0)
-  * Olympic: [training](https://www.dropbox.com/s/ynqw0yrnuqjmhhs/olympic_train-feat.zip?dl=0) | [validation](https://www.dropbox.com/s/mxl888ca06tg8wn/olympic_val-feat.zip?dl=0)
+  * UCF: [download](https://www.dropbox.com/s/ebtc1hz1paz9bmz/ucf101-feat.zip?dl=0)
+  * HMDB: [download](https://www.dropbox.com/s/aiac0ytb9jt83a2/hmdb51-feat.zip?dl=0)
+  * Olympic: [training](https://www.dropbox.com/s/0ljfsp52hydyqht/olympic_train-feat.zip?dl=0) | [validation](https://www.dropbox.com/s/yh09a2th4hf8hqp/olympic_val-feat.zip?dl=0)
 * Data lists
   * UCF-Olympic
     * UCF: [training list](https://www.dropbox.com/s/ennjl2g0m44srj4/list_ucf101_train_ucf_olympic-feature.txt?dl=0) | [validation list](https://www.dropbox.com/s/hz8wzj0bo7dhdx4/list_ucf101_val_ucf_olympic-feature.txt?dl=0)
