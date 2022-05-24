@@ -89,7 +89,7 @@ Send2Trash==1.5.0
 simplegeneric==0.8.1
 six==1.12.0
 tensorboardX==1.7
-tensorflow-gpu==2.5.3
+tensorflow-gpu==2.6.4
 tensorflow-tensorboard==0.4.0
 termcolor==1.1.0
 terminado==0.8.2
