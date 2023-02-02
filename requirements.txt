@@ -18,7 +18,7 @@ defusedxml==0.6.0
 entrypoints==0.3
 enum34==1.1.6
 funcsigs==1.0.2
-future==0.17.1
+future==0.18.3
 gast==0.2.2
 gpustat==0.5.0
 grpcio==1.21.1
