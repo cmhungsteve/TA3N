@@ -95,7 +95,7 @@ termcolor==1.1.0
 terminado==0.8.2
 testpath==0.4.2
 toolz==0.9.0
-torch==0.4.1
+torch==1.13.1
 torchfile==0.1.0
 torchnet==0.0.4
 torchvision==0.2.1
