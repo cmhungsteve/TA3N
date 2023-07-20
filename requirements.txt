@@ -71,7 +71,7 @@ ptyprocess==0.6.0
 putil==0.9.12
 py==1.10.0
 PyContracts==1.8.12
-Pygments==2.7.4
+Pygments==2.15.0
 pyparsing==2.4.0
 pyrsistent==0.15.2
 pytest==4.6.3
