@@ -107,7 +107,7 @@ visdom==0.1.8.8
 wcwidth==0.1.7
 webencodings==0.5.1
 websocket-client==0.56.0
-Werkzeug==3.0.1
+Werkzeug==3.0.3
 widgetsnbextension==3.4.2
 youtube-dl==2019.6.8
 zipp==0.5.1
