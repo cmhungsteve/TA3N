@@ -102,7 +102,7 @@ torchvision==0.2.1
 tornado==6.3.3
 tqdm==4.66.3
 traitlets==4.3.2
-urllib3==1.26.18
+urllib3==1.26.19
 visdom==0.1.8.8
 wcwidth==0.1.7
 webencodings==0.5.1
