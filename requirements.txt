@@ -55,7 +55,7 @@ notebook==6.4.12
 numpy==1.22.0
 nvidia-ml-py3==7.352.0
 olefile==0.46
-opencv-contrib-python==4.2.0.32
+opencv-contrib-python==4.8.1.78
 packaging==19.0
 pandas==0.24.2
 pandocfilters==1.4.2
